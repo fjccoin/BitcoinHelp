@@ -1,5 +1,5 @@
 # BitcoinHelp
-Some helpful tips when dealing with Bitcooin
+Some helpful tips when dealing with Bitcoin
 
 
 ## Extracting the Arbitary Text, for a Coinbase transaction, from the block height
